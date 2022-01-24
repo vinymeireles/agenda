@@ -1,0 +1,14 @@
+create tables: no terminal 
+>>py manage.py migrate
+
+create username:
+>>py manage.py createsuperuser --username admin
+Email address: admin@agenda.com.br
+Password: viny2022
+
+user: vinic
+Email address: admin@agenda.com.br
+Password: viny2022
+
+user: paulo
+Password: viny2022
